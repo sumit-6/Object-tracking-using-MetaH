@@ -1,4 +1,3 @@
-# differential evolution search of the two-dimensional sphere objective function
 import numpy
 import random
 import time
