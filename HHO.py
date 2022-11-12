@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thirsday March 21  2019
-@author: Ali Asghar Heidari, Hossam Faris
-% _____________________________________________________
-% Main paper:
-% Harris hawks optimization: Algorithm and applications
-% Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen
-% Future Generation Computer Systems, 
-% DOI: https://doi.org/10.1016/j.future.2019.02.028
-% _____________________________________________________
-"""
 import random
 import numpy
 import math
