@@ -16,6 +16,10 @@ We have used two different objective functions on each of the meta-heuristic alg
 * [openCV](https://opencv.org/)
 
 # Run Demo💻
+You have to download one of the datasets provided by: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
+
+And mention it in `dataset.py` file, so that the algorithm may run on this dataset.
+
 You can follow the steps provided below to start using this project:
 1. Clone the repo
    ```sh
